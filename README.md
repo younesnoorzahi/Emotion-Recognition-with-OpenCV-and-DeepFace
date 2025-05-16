@@ -1,5 +1,5 @@
 <img src="opencv.jpg" alt="opencv face">
-<h3>Emotion-Recognition-with-OpenCV-and-DeepFace</h2>
+<h3>Emotion Recognition with OpenCV and DeepFace</h2>
 <p>This code uses the DeepFace library and OpenCV to detect facial emotions from the camera. Here is a step-by-step explanation of how the code works:</p>
 <p>Explanation of the code function:
 where cv2 is for image processing and camera usage
